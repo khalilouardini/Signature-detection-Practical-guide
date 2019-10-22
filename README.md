@@ -3,7 +3,7 @@
 </h1>
 
 **The aim of this repository is to explain explain how to train a signature detector in few steps, and use it for inference.**
-In our [BLOG post](https://hyperlex.ai/blog/tech/handwriting-detection-contract-management.html), we provide complementary information on the motivations and the background of this project. We also explain how you can annotate your documents in few steps. Make sure to check it!
+In our [BLOG post](https://hyperlex.ai/blog/tech/handwriting-detection-contract-management.html), we provide complementary information on the motivations and the background of this project. We also explain how you can annotate your documents in few steps.
 
 ## Quick Setup (OS/Linux)
 
