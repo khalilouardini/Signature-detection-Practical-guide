@@ -1,8 +1,8 @@
 <h1 align="center">
-    <p>Signature Detection for Legal Documents</p>
+    <p>Signature detection for legal documents</p>
 </h1>
 
-![Image](image_blog.jpeg)
+![Image](image_blog.jpg)
 
 **The aim of this repository is to explain explain how to train a signature detector in few steps, and use it for inference.**
 In our [BLOG post](https://hyperlex.ai/blog/tech/handwriting-detection-contract-management.html), we provide complementary information on the motivations and the background of this project. We also explain how you can annotate your documents in few steps.
